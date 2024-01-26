@@ -1,0 +1,13 @@
+1. Collect the audio urls from the websites using selenium
+
+2. Each Actor - Approzimately 30 audio files
+
+3. Make a CSV file out of the extracted audio urls
+
+4. Then download the audio files from the urls using requests library.
+
+5. Convert the .mp3 to .wav format and save it.
+
+6. Use the speech recognition module to extract text from the audio files and then store it in a directrory.
+
+7. Compile a CSV file with the audio subtitles, filename.
